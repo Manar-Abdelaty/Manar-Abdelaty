@@ -1,36 +1,42 @@
-# Hi 👋, I'm Manar Abdelaty  
-### 💻 Third Year Computer Science Student | 🌐 Frontend & Backend Developer  
+# Manar Abdelaty  
+
+### Computer Science Student | Future Full-Stack Developer  
 
 ---
 
-### 🚀 About Me
-- 🎓 Third Year CS Student  
-- 💡 Passionate about Web Development  
-- 🔭 Currently learning Full-Stack Development  
-- 🎯 Goal: Becoming a Professional Software Engineer  
+## 👩‍💻 About
+
+I am a third-year Computer Science student with a strong interest in both frontend and backend development.  
+I enjoy building structured, scalable web applications and continuously improving my problem-solving skills.
 
 ---
 
-### 🛠️ Languages & Tools
+## ⚙️ Core Skills
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Frontend:**  
+HTML • CSS • JavaScript  
 
----
+**Backend:**  
+Node.js  
 
-### 📊 GitHub Stats
-
-![Manar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+**Concepts:**  
+Version Control • Git • Software Development Practices  
 
 ---
 
-### 📫 Connect with me
-- 📧 your-email@example.com
+## 📈 Development Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
 
 ---
 
-✨ "Code. Learn. Improve. Repeat."
+## 🎯 2026 Goals
+
+- Build real-world full-stack projects  
+- Contribute to open-source  
+- Strengthen backend architecture knowledge  
+- Prepare for internships  
+
+---
+
+> "Consistency builds excellence."
