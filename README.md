@@ -1,42 +1,52 @@
-# 👋 Hi, I'm Manar Abdelaty
+# 👋 Hi, I'm Manar Abdelaty  
 
-🎓 Third Year Computer Science Student  
-💻 Interested in Frontend & Backend Development  
-
----
-
-## 🌸 About Me
-I am a passionate Computer Science student who is constantly working on improving my technical skills and learning modern web technologies.  
-I enjoy building projects and understanding how systems work behind the scenes.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Third+Year+Computer+Science+Student;Frontend+Developer;Backend+Enthusiast;Future+Full+Stack+Developer" />
+</p>
 
 ---
 
-## 🚀 My Goals in Software Development and Professional Practice
-- Master Git and GitHub
-- Work professionally in team environments
-- Improve my software design and development skills
-- Build full-stack web applications
+## 🎓 About Me
+💻 Third Year Computer Science Student  
+🌐 Interested in Frontend & Backend Development  
+🚀 Passionate about building modern web applications  
+
+I am constantly learning and improving my skills in software development and professional practices.
 
 ---
 
-## 💡 Technical Interests
-- 🌐 Frontend Development
-- 🖥 Backend Development
-- 🔗 Full-Stack Applications
-- 🧠 Problem Solving
+## 🛠️ Technologies & Tools
+
+### 💙 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 💚 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
-- Version Control Systems (Git)
-- Professional Software Practices
-- Web Development Technologies
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## ✨ Fun Fact
-I believe consistency is more powerful than talent 💪
+## 🚀 Goals
+- Build full-stack web applications  
+- Work on real-world projects  
+- Improve teamwork and collaboration skills  
+- Become a professional software developer  
 
 ---
 
-⭐ Thank you for visiting my profile!
+✨ “Consistency beats talent.”  
+
+⭐ Thanks for visiting my profile!
