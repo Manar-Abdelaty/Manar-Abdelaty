@@ -6,9 +6,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ManarAbdelaty&label=Profile%20views&color=0047AB&style=plastic?" alt="ManarAbdelaty" height=25px, width=160px/> 
-</p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
@@ -61,6 +58,3 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManarAbdelaty&theme=tokyonight_duo" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-	<img src="https://github.com/ManarAbdelaty/ManarAbdelaty/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
