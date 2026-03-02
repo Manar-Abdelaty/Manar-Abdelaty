@@ -1,42 +1,62 @@
-# Manar Abdelaty  
+# 👋 Hi, I'm Manar Abdelaty  
 
-### Computer Science Student | Future Full-Stack Developer  
-
----
-
-## 👩‍💻 About
-
-I am a third-year Computer Science student with a strong interest in both frontend and backend development.  
-I enjoy building structured, scalable web applications and continuously improving my problem-solving skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Third+Year+Computer+Science+Student;Frontend+Developer;Backend+Enthusiast;Future+Full+Stack+Engineer" />
+</p>
 
 ---
 
-## ⚙️ Core Skills
+## 🎓 About Me
 
-**Frontend:**  
-HTML • CSS • JavaScript  
+💻 Third Year Computer Science Student  
+🌐 Passionate about Frontend & Backend Development  
+🚀 Future Full-Stack Engineer  
 
-**Backend:**  
-Node.js  
-
-**Concepts:**  
-Version Control • Git • Software Development Practices  
+I am continuously learning modern web technologies and improving my software development skills.  
+I enjoy building projects and understanding how systems work behind the scenes.
 
 ---
 
-## 📈 Development Activity
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-## 🎯 2026 Goals
-
-- Build real-world full-stack projects  
-- Contribute to open-source  
-- Strengthen backend architecture knowledge  
-- Prepare for internships  
+### 🖥 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-> "Consistency builds excellence."
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](PUT-YOUR-LINKEDIN-LINK-HERE)
+
+📧 Email: your-email@example.com  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+✨ “Discipline and consistency build success.”  
+
+⭐ Thank you for visiting my profile!
